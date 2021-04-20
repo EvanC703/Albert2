@@ -1,6 +1,40 @@
 body{
     background:#DCDCE6;
+    
 }
 h1{
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: #337AB7;
 }
+h2{
+    text-align: center;
+    color: #008000;
+}
+img {
+    display:block;
+    margin:auto;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.bananas{
+margin-left: 40px;
+}
+
+ul{
+    font-weight:300;
+}
+
+.p1{
+    font-size:20px;
+    font-weight: 900;
+}
+
+#link{
+    font-size: 20px;    
+    color:fuchsia;
+}
+
